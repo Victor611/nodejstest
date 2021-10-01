@@ -4,3 +4,4 @@
   exports.UI_ROOT_URI = "http://localhost:3000";
   exports.JWT_SECRET = "shhhhh";
   exports.COOKIE_NAME = "auth_token";
+  exports.REDIRECT_URI = "auth/google";
